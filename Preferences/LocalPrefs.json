@@ -1,0 +1,13 @@
+{
+  "colorPalette": false,
+  "vSync": true,
+  "frameRateLimit": 6,
+  "simpleNailPhysics": true,
+  "bloodStainChance": 1.0,
+  "bloodStainMax": 500000.0,
+  "resolutionWidth": 1440,
+  "resolutionHeight": 900,
+  "fullscreen": true,
+  "disableEnvironmentParticles": false,
+  "maxGore": 10000.0
+}

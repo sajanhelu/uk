@@ -1,0 +1,18 @@
+{
+  "controlScheme": "Keyboard & Mouse",
+  "modifiedActions": {
+    "Dodge": [
+      {
+        "path": "<Keyboard>/leftShift"
+      },
+      {
+        "path": "<Keyboard>/q"
+      }
+    ],
+    "Previous Variation": [
+      {
+        "path": "<Keyboard>/l"
+      }
+    ]
+  }
+}
